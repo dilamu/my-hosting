@@ -1,7 +1,12 @@
 body {
     text-align: center;
-    
+    background: black;
 }
 h1 {
     color: red;
 }
+a {
+    color:yellow;
+}
+
+
